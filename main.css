@@ -32,11 +32,11 @@ h2 {
   text-align: right;
 }
 footer {
-  border: 2px dotted green;
+  border: 2px dotted white;
   padding: 5px;
   font-size: 25px;
   font-family: Helvetica;
   position: absolute;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: gray;
 } 
