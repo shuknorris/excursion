@@ -3,4 +3,4 @@
 #### Technologies that I have used
 - Html
 - Css \
-[Excursion link](shuknorris.github.io/excursion)
+[Excursion link](https://shuknorris.github.io/ecxursion)
