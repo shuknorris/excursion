@@ -1,0 +1,42 @@
+body {
+  font-family: Verdana, sans-serif; 
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin: 8px;
+}
+body {
+  display: block;
+  margin: 8px;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+p {
+ color: gray;
+ font-size: 21px;
+}
+a: hover {
+  color: blue;
+}
+.first {
+  color: Aquamarine;
+  font-size: 16px;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+.footer {
+  text-align: right;
+}
+footer {
+  border: 2px dotted green;
+  padding: 5px;
+  font-size: 25px;
+  font-family: Helvetica;
+  position: absolute;
+  background-color: black;
+  color: white;
+} 
